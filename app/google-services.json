@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "859489123069",
+    "project_id": "myass-28eb2",
+    "storage_bucket": "myass-28eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859489123069:android:0348493eda1e4c0b399c94",
+        "android_client_info": {
+          "package_name": "com.example.myass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859489123069-2d7s9jqhuf93ujklrnrmrjs7oogkh4bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myass",
+            "certificate_hash": "497992f1a6cbc1afb03e70aeb4bb65b8aed54020"
+          }
+        },
+        {
+          "client_id": "859489123069-9gor17r8lepj14d7thqlda64nilp0n7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQSwMICaEA8VM4pk6vcN5bOFm1xS4r8m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859489123069-9gor17r8lepj14d7thqlda64nilp0n7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
